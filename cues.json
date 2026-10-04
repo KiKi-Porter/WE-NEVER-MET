@@ -1,0 +1,593 @@
+{
+ "duration": 186,
+ "bpm": 80,
+ "scenes": [
+  {
+   "name": "open",
+   "bar": 0,
+   "bars": 6
+  },
+  {
+   "name": "silence",
+   "bar": 6,
+   "bars": 6
+  },
+  {
+   "name": "drake",
+   "bar": 12,
+   "bars": 6
+  },
+  {
+   "name": "called",
+   "bar": 18,
+   "bars": 10
+  },
+  {
+   "name": "wow",
+   "bar": 28,
+   "bars": 6
+  },
+  {
+   "name": "ears",
+   "bar": 34,
+   "bars": 8
+  },
+  {
+   "name": "echo",
+   "bar": 42,
+   "bars": 7
+  },
+  {
+   "name": "first",
+   "bar": 49,
+   "bars": 8
+  },
+  {
+   "name": "end",
+   "bar": 57,
+   "bars": 5
+  }
+ ],
+ "hits": [
+  {
+   "t": 15,
+   "k": 1
+  },
+  {
+   "t": 28.5,
+   "k": 0.3
+  },
+  {
+   "t": 43.5,
+   "k": 0.35
+  },
+  {
+   "t": 66,
+   "k": 1
+  },
+  {
+   "t": 81,
+   "k": 0.3
+  },
+  {
+   "t": 92.7,
+   "k": 0.25
+  },
+  {
+   "t": 102,
+   "k": 0.6
+  },
+  {
+   "t": 103.5,
+   "k": 0.45
+  },
+  {
+   "t": 105,
+   "k": 0.45
+  },
+  {
+   "t": 105.75,
+   "k": 0.45
+  },
+  {
+   "t": 107.55,
+   "k": 0.9
+  },
+  {
+   "t": 110,
+   "k": 0.3
+  },
+  {
+   "t": 147,
+   "k": 0.8
+  },
+  {
+   "t": 150,
+   "k": 0.3
+  },
+  {
+   "t": 153,
+   "k": 0.3
+  },
+  {
+   "t": 156,
+   "k": 0.3
+  },
+  {
+   "t": 159,
+   "k": 0.3
+  },
+  {
+   "t": 165,
+   "k": 1
+  }
+ ],
+ "sfx": [
+  {
+   "t": 0.75,
+   "name": "heart"
+  },
+  {
+   "t": 2.25,
+   "name": "heart"
+  },
+  {
+   "t": 3.75,
+   "name": "heart"
+  },
+  {
+   "t": 5.25,
+   "name": "heart"
+  },
+  {
+   "t": 6,
+   "name": "glitch"
+  },
+  {
+   "t": 6.75,
+   "name": "tick"
+  },
+  {
+   "t": 7.5,
+   "name": "glitch"
+  },
+  {
+   "t": 8.25,
+   "name": "tick"
+  },
+  {
+   "t": 9,
+   "name": "glitch"
+  },
+  {
+   "t": 9.75,
+   "name": "tick"
+  },
+  {
+   "t": 10.5,
+   "name": "glitch"
+  },
+  {
+   "t": 11.25,
+   "name": "tick"
+  },
+  {
+   "t": 12,
+   "name": "ping",
+   "midi": 81
+  },
+  {
+   "t": 12,
+   "name": "riser",
+   "dur": 3
+  },
+  {
+   "t": 15,
+   "name": "impact"
+  },
+  {
+   "t": 15.05,
+   "name": "sparkle",
+   "dur": 2.6
+  },
+  {
+   "t": 19.5,
+   "name": "type",
+   "dur": 0.35
+  },
+  {
+   "t": 20.25,
+   "name": "type",
+   "dur": 0.35
+  },
+  {
+   "t": 21,
+   "name": "type",
+   "dur": 0.35
+  },
+  {
+   "t": 21.75,
+   "name": "type",
+   "dur": 0.35
+  },
+  {
+   "t": 22.8,
+   "name": "whoosh",
+   "dur": 0.8
+  },
+  {
+   "t": 26.3,
+   "name": "type",
+   "dur": 1.7
+  },
+  {
+   "t": 28.5,
+   "name": "ding",
+   "midi": 81
+  },
+  {
+   "t": 30,
+   "name": "swell",
+   "dur": 3.2
+  },
+  {
+   "t": 33.3,
+   "name": "ding",
+   "midi": 76
+  },
+  {
+   "t": 34.3,
+   "name": "stamp"
+  },
+  {
+   "t": 36.4,
+   "name": "swell",
+   "dur": 2.4
+  },
+  {
+   "t": 43.5,
+   "name": "spike"
+  },
+  {
+   "t": 44.6,
+   "name": "whoosh",
+   "dur": 1.2
+  },
+  {
+   "t": 45.3,
+   "name": "stamp"
+  },
+  {
+   "t": 46.6,
+   "name": "chalk",
+   "dur": 1.6
+  },
+  {
+   "t": 48.4,
+   "name": "tick"
+  },
+  {
+   "t": 48.775,
+   "name": "tick"
+  },
+  {
+   "t": 49.15,
+   "name": "tick"
+  },
+  {
+   "t": 49.525,
+   "name": "tick"
+  },
+  {
+   "t": 49.9,
+   "name": "tick"
+  },
+  {
+   "t": 50.275,
+   "name": "tick"
+  },
+  {
+   "t": 50.65,
+   "name": "tick"
+  },
+  {
+   "t": 51.1,
+   "name": "ding",
+   "midi": 81
+  },
+  {
+   "t": 52.2,
+   "name": "ping",
+   "midi": 69
+  },
+  {
+   "t": 54.4,
+   "name": "swell",
+   "dur": 3.5
+  },
+  {
+   "t": 58,
+   "name": "data",
+   "dur": 4.6
+  },
+  {
+   "t": 63,
+   "name": "tick"
+  },
+  {
+   "t": 64.2,
+   "name": "ding",
+   "midi": 76
+  },
+  {
+   "t": 64.9,
+   "name": "ding",
+   "midi": 79
+  },
+  {
+   "t": 65.1,
+   "name": "riser",
+   "dur": 0.9
+  },
+  {
+   "t": 66,
+   "name": "impact"
+  },
+  {
+   "t": 66.02,
+   "name": "snap"
+  },
+  {
+   "t": 66.7,
+   "name": "chime",
+   "midi": 69
+  },
+  {
+   "t": 68.2,
+   "name": "chime",
+   "midi": 72
+  },
+  {
+   "t": 69.7,
+   "name": "chime",
+   "midi": 76
+  },
+  {
+   "t": 71.2,
+   "name": "chime",
+   "midi": 79
+  },
+  {
+   "t": 72.7,
+   "name": "chime",
+   "midi": 81
+  },
+  {
+   "t": 74.2,
+   "name": "chime",
+   "midi": 84
+  },
+  {
+   "t": 75.7,
+   "name": "chime",
+   "midi": 88
+  },
+  {
+   "t": 78,
+   "name": "whoosh",
+   "dur": 1.6
+  },
+  {
+   "t": 79.7,
+   "name": "sparkle",
+   "dur": 1.6
+  },
+  {
+   "t": 81,
+   "name": "swell",
+   "dur": 3
+  },
+  {
+   "t": 81.6,
+   "name": "stamp"
+  },
+  {
+   "t": 84.2,
+   "name": "printer",
+   "dur": 4.2
+  },
+  {
+   "t": 88.4,
+   "name": "swell",
+   "dur": 2
+  },
+  {
+   "t": 90,
+   "name": "printer",
+   "dur": 0.6
+  },
+  {
+   "t": 90.9,
+   "name": "ping",
+   "midi": 76
+  },
+  {
+   "t": 91.6,
+   "name": "pen",
+   "dur": 0.9
+  },
+  {
+   "t": 92.6,
+   "name": "pen",
+   "dur": 0.5
+  },
+  {
+   "t": 94.6,
+   "name": "ding",
+   "midi": 81
+  },
+  {
+   "t": 94.8,
+   "name": "blip",
+   "midi": 75
+  },
+  {
+   "t": 95.05,
+   "name": "blip",
+   "midi": 79
+  },
+  {
+   "t": 95.3,
+   "name": "blip",
+   "midi": 85
+  },
+  {
+   "t": 95.55,
+   "name": "blip",
+   "midi": 87
+  },
+  {
+   "t": 95.8,
+   "name": "blip",
+   "midi": 82
+  },
+  {
+   "t": 96.05,
+   "name": "blip",
+   "midi": 75
+  },
+  {
+   "t": 97.9,
+   "name": "tick"
+  },
+  {
+   "t": 98.65,
+   "name": "tick"
+  },
+  {
+   "t": 99.4,
+   "name": "tick"
+  },
+  {
+   "t": 100.15,
+   "name": "tick"
+  },
+  {
+   "t": 100.8,
+   "name": "stamp"
+  },
+  {
+   "t": 103.5,
+   "name": "twang"
+  },
+  {
+   "t": 105,
+   "name": "twang"
+  },
+  {
+   "t": 105.75,
+   "name": "twang"
+  },
+  {
+   "t": 106.5,
+   "name": "fall",
+   "dur": 1.0499999999999998
+  },
+  {
+   "t": 107.55,
+   "name": "rumble",
+   "dur": 2.2
+  },
+  {
+   "t": 109,
+   "name": "swell",
+   "dur": 1.6
+  },
+  {
+   "t": 110,
+   "name": "ding",
+   "midi": 81
+  },
+  {
+   "t": 117,
+   "name": "scan",
+   "dur": 5.4
+  },
+  {
+   "t": 120.7,
+   "name": "ping",
+   "midi": 88
+  },
+  {
+   "t": 122.2,
+   "name": "glitch"
+  },
+  {
+   "t": 123.8,
+   "name": "stamp"
+  },
+  {
+   "t": 126.6,
+   "name": "swell",
+   "dur": 3
+  },
+  {
+   "t": 130.4,
+   "name": "ding",
+   "midi": 88
+  },
+  {
+   "t": 134,
+   "name": "shutter"
+  },
+  {
+   "t": 137,
+   "name": "ping",
+   "midi": 81
+  },
+  {
+   "t": 141,
+   "name": "swell",
+   "dur": 2.4
+  },
+  {
+   "t": 143,
+   "name": "whoosh",
+   "dur": 2.4
+  },
+  {
+   "t": 147,
+   "name": "snap"
+  },
+  {
+   "t": 150,
+   "name": "snap"
+  },
+  {
+   "t": 153,
+   "name": "snap"
+  },
+  {
+   "t": 156,
+   "name": "snap"
+  },
+  {
+   "t": 159,
+   "name": "snap"
+  },
+  {
+   "t": 162,
+   "name": "ping",
+   "midi": 81
+  },
+  {
+   "t": 165.05,
+   "name": "sparkle",
+   "dur": 3
+  },
+  {
+   "t": 172,
+   "name": "stamp"
+  }
+ ]
+}

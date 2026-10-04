@@ -1,0 +1,17 @@
+# Local dependencies and editor metadata
+node_modules/
+.idea/
+
+# Rendered previews and review exports
+renders/
+_review/
+_archive_image2/
+
+# Large local deliverables (GitHub rejects files over 100 MB)
+*.mp4
+*.zip
+music.wav
+
+# Temporary logs and generated caches
+*.log
+.DS_Store

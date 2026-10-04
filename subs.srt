@@ -1,0 +1,214 @@
+1
+00:00:00,900 --> 00:00:03,700
+宇宙里有数千亿个星系。
+There are hundreds of billions of galaxies.
+
+2
+00:00:03,900 --> 00:00:05,900
+一百三十八亿年。
+Thirteen point eight billion years.
+
+3
+00:00:12,250 --> 00:00:15,107
+可是，从来没有人回过一句"你好"。
+And yet, no one has ever said hello.
+
+4
+00:00:18,900 --> 00:00:23,186
+1950 年夏天，洛斯阿拉莫斯，四位物理学家在吃午饭。
+Summer 1950, Los Alamos. Four physicists sit down to lunch.
+
+5
+00:00:23,306 --> 00:00:26,591
+他们聊起报纸上的飞碟新闻，笑成一团。
+They joke about the flying saucers in the papers.
+
+6
+00:00:26,711 --> 00:00:28,854
+费米突然问了一句：
+Then Fermi asks:
+
+7
+00:00:30,000 --> 00:00:34,286
+只要有一个文明会星际航行，几千万年就能走遍银河系。
+One civilization with starships could cross the galaxy in tens of millions of years.
+
+8
+00:00:34,406 --> 00:00:35,950
+而银河系已存在一百多亿年。
+And the galaxy is more than ten billion years old.
+
+9
+00:00:36,500 --> 00:00:40,500
+1960 年，德雷克把望远镜对准两颗邻近的恒星。
+In 1960, a young astronomer, Frank Drake, aimed a telescope at two nearby stars.
+
+10
+00:00:40,620 --> 00:00:44,300
+他听了 150 小时，只有一次信号猛然跳起——
+He listened for 150 hours. Only once did the signal leap —
+
+11
+00:00:44,500 --> 00:00:46,643
+是一架路过的飞机。
+It was a passing aeroplane.
+
+12
+00:00:46,763 --> 00:00:50,049
+次年，他写下方程，估算银河系的文明数。
+A year later he wrote an equation to estimate how many civilizations are out there.
+
+13
+00:00:50,169 --> 00:00:53,950
+没人算得出答案。那就不止听——还要喊。
+No one could solve it. So he decided: not just listen — call out.
+
+14
+00:00:54,800 --> 00:00:57,943
+1974 年，我们第一次朝宇宙喊话。
+In 1974, we called out to the universe for the first time.
+
+15
+00:00:59,000 --> 00:01:02,400
+1679 个比特。
+1,679 bits.
+
+16
+00:01:03,000 --> 00:01:06,714
+1679，只能拆成两个质数相乘：23 × 73。
+1,679 splits only one way — two primes, 23 by 73.
+
+17
+00:01:06,834 --> 00:01:11,200
+任何懂数学的文明，都能把它排成一幅图。
+Any civilization that knows math can turn it into a picture.
+
+18
+00:01:12,000 --> 00:01:16,800
+那是我们的自画像。
+It is a self-portrait.
+
+19
+00:01:18,300 --> 00:01:20,800
+它要走两万五千年。
+It will travel for twenty-five thousand years.
+
+20
+00:01:21,200 --> 00:01:23,950
+1977 年，我们又寄出一张唱片。
+In 1977, we sent a record.
+
+21
+00:01:24,500 --> 00:01:28,214
+1977 年 8 月，"大耳朵"望远镜照常扫过天空。
+August 1977. The Big Ear telescope in Ohio sweeps the sky, as usual.
+
+22
+00:01:28,600 --> 00:01:32,029
+几天后，志愿者埃曼在餐桌上翻看打印纸。
+Days later, volunteer Jerry Ehman reads the printouts at his kitchen table.
+
+23
+00:01:32,149 --> 00:01:35,006
+他圈出一串字符，写下："Wow!"
+He circles a few characters and writes: "Wow!"
+
+24
+00:01:35,126 --> 00:01:38,840
+信号只持续 72 秒——恰是恒星划过视野的时间。
+It lasted 72 seconds — exactly how long a distant star takes to drift through the beam.
+
+25
+00:01:38,960 --> 00:01:41,950
+人们一次次回望那里，它再没出现。
+For decades we pointed back at that spot. It never came again.
+
+26
+00:01:42,600 --> 00:01:47,029
+2020 年 12 月 1 日，阿雷西博望远镜的钢缆接连断裂。
+December 1, 2020. Arecibo's cables snap, one after another.
+
+27
+00:01:47,149 --> 00:01:51,149
+九百吨的平台坠落。那只喊过话的耳朵，永远闭上了。
+The 900-tonne platform falls. The ear that once called out is closed for good.
+
+28
+00:01:51,269 --> 00:01:56,126
+而在中国贵州，一只更大的耳朵早已睁开——"中国天眼"，口径 500 米。
+But in Guizhou, China, a bigger ear has already opened — FAST, 500 metres across.
+
+29
+00:01:56,246 --> 00:01:58,960
+人类从来没有听得这么清楚。
+We have never listened so closely.
+
+30
+00:01:59,080 --> 00:02:02,080
+"突破聆听"计划，扫过了上千颗恒星。
+Breakthrough Listen has swept over a thousand stars.
+
+31
+00:02:02,200 --> 00:02:05,914
+2022 年的可疑信号，最终证实是地球干扰。
+In 2022, FAST caught a few candidates — they turned out to be our own interference.
+
+32
+00:02:06,034 --> 00:02:07,891
+宇宙，依然沉默。
+The universe is still silent.
+
+33
+00:02:08,011 --> 00:02:12,869
+2026 年 10 月，旅行者 1 号即将飞到离地球"一光日"远的地方。
+In October 2026, Voyager 1 is about to reach one light-day from home.
+
+34
+00:02:12,989 --> 00:02:15,131
+它已经飞了 49 年。
+It has been flying for 49 years.
+
+35
+00:02:15,251 --> 00:02:19,251
+1990 年，它曾回过一次头，给地球拍了一张照片。
+In 1990, it turned around once and took a picture of us.
+
+36
+00:02:19,371 --> 00:02:22,800
+六十亿公里外，我们只是一个暗淡的蓝点。
+From six billion kilometres away, we are a pale blue dot.
+
+37
+00:02:22,920 --> 00:02:26,491
+我们所有的声音，才走过银河系的千分之一。
+Everything we have ever broadcast has crossed a thousandth of the galaxy.
+
+38
+00:02:26,611 --> 00:02:26,950
+也许不是宇宙太安静，是我们还太小。
+Maybe the universe isn't quiet. Maybe we are just small.
+
+39
+00:02:27,300 --> 00:02:29,850
+也许，他们根本不存在。
+Maybe there is no one else.
+
+40
+00:02:30,300 --> 00:02:33,157
+也许，他们都没能跨过某道关卡。
+Maybe none of them made it past some great filter.
+
+41
+00:02:33,300 --> 00:02:36,157
+也许，他们躲在黑暗里，不敢出声。
+Maybe they hide in the dark and dare not speak.
+
+42
+00:02:36,300 --> 00:02:38,850
+也许，他们早已离开。
+Maybe they are long gone.
+
+43
+00:02:39,300 --> 00:02:42,729
+也许，他们一直在说话，只是我们还听不懂。
+Maybe they have been talking all along — and we can't understand yet.
